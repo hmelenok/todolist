@@ -1,0 +1,21 @@
+{
+  "name": "todolist",
+  "homepage": "https://github.com/hmelenok/todolist",
+  "authors": [
+    "Khmel Mykyta <hmelenok@gmail.com>"
+  ],
+  "description": "simple todo list",
+  "main": "index.html",
+  "keywords": [
+    "todo",
+    "list"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
